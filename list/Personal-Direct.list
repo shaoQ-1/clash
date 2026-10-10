@@ -1,0 +1,7 @@
+# 直连规则集 —— 仅按域名/SNI 字符串匹配；出站策略由引用处（RULE-SET 目标）决定，本文件不携带策略
+# 一行一条，格式：DOMAIN-SUFFIX,域名
+# 以 # 开头为注释
+DOMAIN-SUFFIX,905777.xyz
+DOMAIN-SUFFIX,fnos.net
+DOMAIN-SUFFIX,pds.quark.cn
+DOMAIN-SUFFIX,quark.cn
